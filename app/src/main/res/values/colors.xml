@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="green_light">#e6f2ff</color>
+    <color name="super_green_light">#ebfafa</color>
      <color name="dark_blue">#001a33</color>
-
+    <color name="gray">#4C4545</color>
+    <color name="brown">#504A4A</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
